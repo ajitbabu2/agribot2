@@ -1,0 +1,13 @@
+googletrans==3.1.0a0
+langchain==0.1.16
+langchain_community==0.0.32
+langchain_google_genai==1.0.2
+librosa==0.10.1
+protobuf==5.26.1
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+SpeechRecognition==3.10.3
+streamlit==1.32.0
+streamlit_mic_recorder==0.0.8
+torch==2.2.2
+transformers==4.38.1
